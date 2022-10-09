@@ -10,3 +10,15 @@ C:\Users\vlesp\source\repos\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.dll
 C:\Users\vlesp\source\repos\CarClassLibrary\obj\Debug\net5.0\refint\CarClassLibrary.dll
 C:\Users\vlesp\source\repos\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.pdb
 C:\Users\vlesp\source\repos\CarClassLibrary\obj\Debug\net5.0\ref\CarClassLibrary.dll
+C:\Users\vlesp\source\repos\CarClassLibrary2\bin\Debug\net5.0\CarClassLibrary.deps.json
+C:\Users\vlesp\source\repos\CarClassLibrary2\bin\Debug\net5.0\CarClassLibrary.dll
+C:\Users\vlesp\source\repos\CarClassLibrary2\bin\Debug\net5.0\CarClassLibrary.pdb
+C:\Users\vlesp\source\repos\CarClassLibrary2\obj\Debug\net5.0\CarClassLibrary.csproj.AssemblyReference.cache
+C:\Users\vlesp\source\repos\CarClassLibrary2\obj\Debug\net5.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlesp\source\repos\CarClassLibrary2\obj\Debug\net5.0\CarClassLibrary.AssemblyInfoInputs.cache
+C:\Users\vlesp\source\repos\CarClassLibrary2\obj\Debug\net5.0\CarClassLibrary.AssemblyInfo.cs
+C:\Users\vlesp\source\repos\CarClassLibrary2\obj\Debug\net5.0\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vlesp\source\repos\CarClassLibrary2\obj\Debug\net5.0\CarClassLibrary.dll
+C:\Users\vlesp\source\repos\CarClassLibrary2\obj\Debug\net5.0\refint\CarClassLibrary.dll
+C:\Users\vlesp\source\repos\CarClassLibrary2\obj\Debug\net5.0\CarClassLibrary.pdb
+C:\Users\vlesp\source\repos\CarClassLibrary2\obj\Debug\net5.0\ref\CarClassLibrary.dll

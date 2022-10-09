@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary\\CarClassLibrary.csproj": {}
+    "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary2\\CarClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary\\CarClassLibrary.csproj": {
+    "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary2\\CarClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary\\CarClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary2\\CarClassLibrary.csproj",
         "projectName": "CarClassLibrary",
-        "projectPath": "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary\\CarClassLibrary.csproj",
+        "projectPath": "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary2\\CarClassLibrary.csproj",
         "packagesPath": "C:\\Users\\vlesp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\vlesp\\source\\repos\\CarClassLibrary2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
